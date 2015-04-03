@@ -10,7 +10,6 @@ namespace CoolApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world, from master!");
         }
     }
 }
